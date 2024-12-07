@@ -72,8 +72,7 @@ One can change the port based on port availability
 ****
 http://localhost:9091/users
 ****
-The application exposes one end point to get the profit for each recipe 
-Request Type: GET
+Request Type: POST
 
 #### Add User
 
